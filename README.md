@@ -1,1 +1,1 @@
-# treinoJS
+# Exercicios-javascript
